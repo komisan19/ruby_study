@@ -1,3 +1,2 @@
-7.times do
-  puts "hello"
-end
+Output to $stdout .
+Output to $stderr .
